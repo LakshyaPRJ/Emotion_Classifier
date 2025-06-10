@@ -58,4 +58,4 @@ Run the app, in Terminal type:
   
 🔗 Links
 📘 Dataset on Kaggle(https://www.kaggle.com/datasets/bhavikjikadara/emotions-dataset/data)
-👤 LinkedIn - Lakshya Prajapati(www.linkedin.com/in/lakshyaprajapati)
+👤 LinkedIn - [www.linkedin.com/in/lakshyaprajapati](https://www.linkedin.com/feed/update/urn:li:activity:7338162087484977152/)
