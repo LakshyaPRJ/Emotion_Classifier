@@ -1,0 +1,9 @@
+📂 Dataset Used
+Source: Kaggle - https://www.kaggle.com/datasets/bhavikjikadara/emotions-dataset/data
+
+Format: CSV
+
+Columns:
+text: Raw input sentence.
+label: Corresponding emotion label.
+Contains pre-labeled data suitable for supervised learning in emotion detection.
