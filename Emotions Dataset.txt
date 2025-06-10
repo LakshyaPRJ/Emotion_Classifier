@@ -1,9 +1,11 @@
+The dataset is of 45mb, which can't be uploaded in github as it allows only upto 25mb file. 
+
+--> The link of the kaggle dataset used to train the model is provided in Readme file, one can download it there. 
+
 📂 Dataset Used
-Source: Kaggle - https://www.kaggle.com/datasets/bhavikjikadara/emotions-dataset/data
-
-Format: CSV
-
+  Source: Kaggle - https://www.kaggle.com/datasets/bhavikjikadara/emotions-dataset/data
+  Format: CSV
 Columns:
-text: Raw input sentence.
-label: Corresponding emotion label.
-Contains pre-labeled data suitable for supervised learning in emotion detection.
+  text: Raw input sentence.
+  label: Corresponding emotion label.
+  Contains pre-labeled data suitable for supervised learning in emotion detection.
