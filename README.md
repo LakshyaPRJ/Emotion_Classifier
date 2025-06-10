@@ -1,6 +1,17 @@
 🎭 Emotion Classifier Web App:
 This is a web-based emotion classification application built using Streamlit and Scikit-learn. It analyzes input text and predicts the underlying emotion among six categories: sadness, joy, love, anger, fear, and surprise.
 
+🚀 Run Locally
+Clone this repository:
+  git clone https://github.com/LakshyaPRJ/Emotion_Classifier.git
+  cd Emotion_Classifier
+  Place the emotions.csv file from the Kaggle dataset in the same directory.
+
+Run the app, in Terminal type:
+  streamlit run app/main.py
+
+💡 Tip: For better prediction accuracy, try inputting longer, meaningful sentences instead of single words or very short texts. This helps the model better understand the context and emotion. 
+
 📂 Dataset Used
   Source: [Kaggle - Emotions Dataset](https://www.kaggle.com/datasets/bhavikjikadara/emotions-dataset/data)
   Format: CSV
@@ -44,18 +55,7 @@ Contains pre-labeled data suitable for supervised learning in emotion detection.
   import nltk
   nltk.download('stopwords')
   nltk.download('wordnet')
-  
-🚀 Run Locally
-Clone this repository:
-  git clone https://github.com/LakshyaPRJ/Emotion_Classifier.git
-  cd Emotion_Classifier
-  Place the emotions.csv file from the Kaggle dataset in the same directory.
-
-Run the app, in Terminal type:
-  streamlit run app/main.py
-
-💡 Tip: For better prediction accuracy, try inputting longer, meaningful sentences instead of single words or very short texts. This helps the model better understand the context and emotion.  
-  
+ 
 🔗 Links
 📘 Dataset on Kaggle(https://www.kaggle.com/datasets/bhavikjikadara/emotions-dataset/data)
 👤 LinkedIn - [www.linkedin.com/in/lakshyaprajapati](https://www.linkedin.com/feed/update/urn:li:activity:7338162087484977152/)
