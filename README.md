@@ -52,7 +52,9 @@ Clone this repository:
   Place the emotions.csv file from the Kaggle dataset in the same directory.
 
 Run the app:
-  streamlit run app.py
+  streamlit run app/main.py
+
+💡 Tip: For better prediction accuracy, try inputting longer, meaningful sentences instead of single words or very short texts. This helps the model better understand the context and emotion.  
   
 🔗 Links
 📘 Dataset on Kaggle(https://www.kaggle.com/datasets/bhavikjikadara/emotions-dataset/data)
