@@ -1,4 +1,4 @@
-🎭 Emotion Classifier Web App
+🎭 Emotion Classifier Web App:
 This is a web-based emotion classification application built using Streamlit and Scikit-learn. It analyzes input text and predicts the underlying emotion among six categories: sadness, joy, love, anger, fear, and surprise.
 
 📂 Dataset Used
