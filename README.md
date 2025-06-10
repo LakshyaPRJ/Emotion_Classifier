@@ -51,7 +51,7 @@ Clone this repository:
   cd Emotion_Classifier
   Place the emotions.csv file from the Kaggle dataset in the same directory.
 
-Run the app:
+Run the app, in Terminal type:
   streamlit run app/main.py
 
 💡 Tip: For better prediction accuracy, try inputting longer, meaningful sentences instead of single words or very short texts. This helps the model better understand the context and emotion.  
